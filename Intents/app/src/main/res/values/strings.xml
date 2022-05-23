@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="button_main">Clique</string>
+    <string name="secondActivity_label">Seconde Activité</string>
+    <string name="message_recu">Message reçu</string>
+    <string name="entrez_votre_message">Entrez votre message</string>
+    <string name="repondre">Répondre</string>
+    <string name="entrez_votre_reponse">Entrez votre réponse</string>
+    <string name="reponse_de_la_2eme_vue">Réponse</string>
+    <string name="reponse_vue2">Pas de réponse</string>
+</resources>

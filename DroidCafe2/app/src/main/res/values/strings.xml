@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DroidCafe2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="donut_desc">Les Donuts sont fourrés et avec un joli glaçage</string>
+    <string name="icecream_desc">Les sandwiches à la crème glacée ont des gaufrettes au chocolat et une garniture à la vanille.</string>
+    <string name="froyo_desc">Le FroYo est un yogourt glacé libre-service de première qualité.</string>
+
+    <string name="donut_order_message">Vous avez commandé un Donut</string>
+    <string name="ice_cream_order_message">Vous avez commandé une Glace</string>
+    <string name="froyo_order_message">Vous avez commandé un Froyo</string>
+
+</resources>

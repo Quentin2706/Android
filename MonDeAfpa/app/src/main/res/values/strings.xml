@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonDeAfpa</string>
+    <string name="main_title">Le dé numérique</string>
+    <string name="faces">faces</string>
+</resources>
