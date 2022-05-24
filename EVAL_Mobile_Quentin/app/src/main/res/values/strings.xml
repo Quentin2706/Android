@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EVAL_Mobile_Quentin</string>
+    <string name="send_button">Envoyer</string>
+    <string name="nbchoisilabel">Le nombre choisi était :</string>
+    <string name="nbcoupslabel">Nombre de coups :</string>
+    <string name="relancer">Relancer</string>
+    <string name="cheatBtnContent">Triche</string>
+    <string name="tricheTWContent">Le bon nombre est</string>
+</resources>
