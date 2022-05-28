@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facturation</string>
+    <string name="no_network">Pas de réseau</string>
+    <string name="no_online">Pas de réponse réseau</string>
+    <string name="modif">Modifier</string>
+    <string name="suppr">Supprimer</string>
+    <string name="ajout">Ajouter</string>
+</resources>
